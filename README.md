@@ -24,3 +24,15 @@ Marketable: No
 ```
 
 This project is created by [abik](https://github.com/BoG3mey).
+
+
+
+# UPDATE 
+
+### by [ Aksel ]
+
+Сохраняет в .html файл с картинками и описанием.
+
+Пример:
+
+![Example](example_html.png)
